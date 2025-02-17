@@ -34,3 +34,17 @@ to set npm :
 
 to install a package globally we use:  npm install -g <pkg>
 to install a package locally in the project we use : npm install -i <pkg>
+
+
+
+
+
+"""""" git additional commands"""""""""""
+
+git branch : show the current branch
+
+git remote -v : check if the branch has a remote setup or not 
+
+git remote add origin <your-repo-URL>: add a branch as a remote repo 
+
+ git remote remove origin : o remove the remote repository (typically named origin)
