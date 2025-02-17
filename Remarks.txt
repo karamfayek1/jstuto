@@ -1,0 +1,36 @@
+// GLOBALS   - NO WINDOW !!!!!
+__dirname ----- path to current directory
+__filename ------ filename
+require ------ function to use modules (commonjs)
+module  ----- info about current module(file)
+process ---- info about the env where the program being executed 
+
+
+
+
+
+built-in modules : 
+
+these are files integred in js that can be used and imported directly without the need to implement them some of these modules are :
+
+os
+
+http
+
+path 
+
+fs
+...
+
+
+
+
+npm : node package manager is installed with node and used to install the packages used in node :
+to set npm :
+
+1/ manual setup 
+2/npm init (step by step with user prompt)
+3/npm init -y (default setup applied)
+
+to install a package globally we use:  npm install -g <pkg>
+to install a package locally in the project we use : npm install -i <pkg>
